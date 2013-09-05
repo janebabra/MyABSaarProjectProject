@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/janebabra/Desktop/eBookAndroidStudio/ActionBarSherlock/MyABSaarProjectProject/MyABSaarProject/build/exploded-bundles/ComExampleActionbarsherlock440.aar/res/values-w600dp/values.xml -->
+    <integer name="abs__max_action_buttons">5</integer>
+
+</resources>
